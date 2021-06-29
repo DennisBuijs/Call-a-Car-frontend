@@ -1,10 +1,19 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
+import {AuthService} from './core/services/auth.service';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.scss']
 })
-export class AppComponent {
-  title = 'callacar';
+export class AppComponent implements OnInit {
+    title = 'callacar';
+
+    constructor(private authService: AuthService) {
+    }
+
+    ngOnInit(): void {
+        this.authService.checkToken();
+    }
+
 }

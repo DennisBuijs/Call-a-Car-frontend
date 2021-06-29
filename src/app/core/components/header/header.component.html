@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand navbar-light">
+    <div class=" container-fluid">
+        <a class="navbar-brand" href="#">Call a Car</a>
+
+        <ul class="navbar-nav">
+            <ng-container *ngIf="customer$ | async as customer; else unauthenticated">
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/reserve']" routerLinkActive="active">Reserveren</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/account']"
+                       routerLinkActive="active">{{ customer.first_name ? customer.first_name : 'Account' }}</a>
+                </li>
+            </ng-container>
+
+            <ng-template #unauthenticated>
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/account/register']" routerLinkActive="active">Aanmelden</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" [routerLink]="['/account/login']" routerLinkActive="active">Inloggen</a>
+                </li>
+            </ng-template>
+        </ul>
+    </div>
+</nav>

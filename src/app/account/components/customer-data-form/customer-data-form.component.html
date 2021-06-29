@@ -1,0 +1,34 @@
+<ng-container *ngIf="customer$ | async as customer">
+    <div class="form-floating mb-3">
+        <input class="form-control" type="text" placeholder="Voornaam" id="first-name" [(ngModel)]="customer.first_name">
+        <label for="first-name">Voornaam</label>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input class="form-control" type="text" placeholder="Achternaam" id="last_name" [(ngModel)]="customer.last_name">
+        <label for="last-name">Achternaam</label>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input class="form-control" type="email" placeholder="Emailadres" id="email" [(ngModel)]="customer.email">
+        <label for="email">Emailadres</label>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input class="form-control" type="text" placeholder="Straat + huisnummer" id="street"
+               [(ngModel)]="customer.street">
+        <label for="street">Straat + huisnummer</label>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input class="form-control" type="text" placeholder="Stad" id="city" [(ngModel)]="customer.city">
+        <label for="city">Stad</label>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-12 text-end">
+            <button class="btn btn-primary" (click)="onSubmit(customer)">Opslaan</button>
+        </div>
+    </div>
+
+</ng-container>
