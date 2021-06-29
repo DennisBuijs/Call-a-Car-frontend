@@ -1,0 +1,435 @@
+<?xml version='1.0'?>
+<testExecutions version='1'>
+    <file path='src/app/app.component.spec.ts'>
+        <testCase name='AppComponent should render title' duration='29'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+        <testCase name='AppComponent should create the app' duration='5'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+        <testCase name='AppComponent should render title' duration='7'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='4'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+        <testCase name='AppComponent should create the app' duration='4'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/core/components/unauthenticated-wrapper/unauthenticated-wrapper.component.spec.ts'>
+        <testCase name='UnauthenticatedWrapperComponent should create' duration='9'/>
+        <testCase name='UnauthenticatedWrapperComponent should create' duration='4'/>
+    </file>
+    <file path='src/app/core/components/header/header.component.spec.ts'>
+        <testCase name='HeaderComponent should create' duration='158'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/core/components/header/header.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='HeaderComponent should create' duration='11'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/core/components/header/header.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/account/components/login-form/login-form.component.spec.ts'>
+        <testCase name='LoginFormComponent should create' duration='11'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/login-form/login-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='LoginFormComponent should create' duration='9'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/login-form/login-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/account/components/register-form/register-form.component.spec.ts'>
+        <testCase name='RegisterFormComponent should create' duration='8'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/register-form/register-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='RegisterFormComponent should create' duration='8'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/register-form/register-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/account/components/customer-data-form/customer-data-form.component.spec.ts'>
+        <testCase name='CustomerDataFormComponent should create' duration='11'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/customer-data-form/customer-data-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='CustomerDataFormComponent should create' duration='12'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/customer-data-form/customer-data-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/account/components/order-history-list/order-history-list.component.spec.ts'>
+        <testCase name='OrderHistoryListComponent should create' duration='10'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at NgModuleRef$1.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:24199:1)
+    at Object.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:22102:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/order-history-list/order-history-list.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='OrderHistoryListComponent should create' duration='161'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at NgModuleRef$1.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:24199:1)
+    at Object.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:22102:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/account/components/order-history-list/order-history-list.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/core/interceptors/auth.interceptor.spec.ts'>
+        <testCase name='AuthInterceptor should be created' duration='2'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthInterceptor -> AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthInterceptor', 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+        <testCase name='AuthInterceptor should be created' duration='3'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthInterceptor -> AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthInterceptor', 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/reserve/components/reserve-form/reserve-form.component.spec.ts'>
+        <testCase name='ReserveFormComponent should create' duration='24'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/reserve/components/reserve-form/reserve-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='ReserveFormComponent should create' duration='13'>
+            <failure message='TestCase failed'>NullInjectorError: R3InjectorError(DynamicTestModule)[AuthService -> DataService -> HttpClient -> HttpClient]: 
+  NullInjectorError: No provider for HttpClient!
+error properties: Object({ ngTempTokenPath: null, ngTokenPath: [ 'AuthService', 'DataService', 'HttpClient', 'HttpClient' ] })
+    at &lt;Jasmine>
+    at NullInjector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:915:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11082:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+    at Object.DataService_Factory [as factory] (ng:///DataService/ɵfac.js:5:39)
+    at R3Injector.hydrate (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11249:1)
+    at R3Injector.get (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:11071:1)
+    at injectInjectorOnly (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:801:1)
+    at ɵɵinject (http://localhost:9876/_karma_webpack_/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js:805:1)
+Error: Expected undefined to be truthy.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/reserve/components/reserve-form/reserve-form.component.spec.ts:23:23)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+    </file>
+    <file path='src/app/core/components/authenticated-wrapper/authenticated-wrapper.component.spec.ts'>
+        <testCase name='AuthenticatedWrapperComponent should create' duration='5'/>
+        <testCase name='AuthenticatedWrapperComponent should create' duration='6'/>
+    </file>
+    <file path='src/app/account/components/account-page/account-page.component.spec.ts'>
+        <testCase name='AccountPageComponent should create' duration='7'/>
+        <testCase name='AccountPageComponent should create' duration='32'/>
+    </file>
+    <file path='src/app/reserve/components/reservation-details/reservation-details.component.spec.ts'>
+        <testCase name='ReservationDetailsComponent should create' duration='5'/>
+        <testCase name='ReservationDetailsComponent should create' duration='5'/>
+    </file>
+</testExecutions>
