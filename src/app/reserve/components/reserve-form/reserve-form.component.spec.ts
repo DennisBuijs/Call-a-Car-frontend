@@ -43,4 +43,16 @@ describe('ReserveFormComponent', () => {
 
         expect(isDateTimeValid).toBeFalse();
     });
+
+    // it(`should show the date input`, () => {
+    //     const fixture = TestBed.createComponent(ReserveFormComponent);
+    //     const component = fixture.componentInstance;
+    //
+    //     component.customer$ = of({});
+    //     component.address = {};
+    //     const datePicker = document.querySelector('input[type=datetime-local]');
+    //
+    //
+    //     expect(datePicker).toBeTruthy();
+    // });
 });
