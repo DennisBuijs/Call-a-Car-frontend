@@ -13,6 +13,56 @@
         <testCase name='AppComponent should create the app' duration='4'/>
         <testCase name='AppComponent should create the app' duration='27'/>
         <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should create the app' duration='8'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'/>
+        <testCase name='AppComponent should create the app' duration='7'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='13'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='7'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='13'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='27'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='9'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='29'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='26'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='12'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should create the app' duration='7'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='7'/>
+        <testCase name='AppComponent should create the app' duration='42'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='12'/>
+        <testCase name='AppComponent should create the app' duration='7'/>
+        <testCase name='AppComponent should create the app' duration='8'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='33'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+        <testCase name='AppComponent should create the app' duration='7'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='7'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'/>
+        <testCase name='AppComponent should create the app' duration='7'/>
+        <testCase name='AppComponent should create the app' duration='9'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='5'/>
     </file>
     <file path='src/app/account/components/register-form/register-form.component.spec.ts'>
         <testCase name='AppComponent should evaluate to valid' duration='14'/>
