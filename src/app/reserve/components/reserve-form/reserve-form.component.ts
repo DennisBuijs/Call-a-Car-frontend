@@ -44,4 +44,12 @@ export class ReserveFormComponent implements OnInit {
         });
     }
 
+    isDateTimeValid(): boolean {
+        if (this.dateTime > new Date()) {
+            return true;
+        }
+
+        return false;
+    }
+
 }

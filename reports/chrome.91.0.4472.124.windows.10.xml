@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<testExecutions version='1'>
+    <file path='src/app/app.component.spec.ts'>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='28'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='29'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+        <testCase name='AppComponent should create the app' duration='33'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='7'/>
+        <testCase name='AppComponent should create the app' duration='5'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+        <testCase name='AppComponent should create the app' duration='4'/>
+        <testCase name='AppComponent should create the app' duration='27'/>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='6'/>
+    </file>
+    <file path='src/app/account/components/register-form/register-form.component.spec.ts'>
+        <testCase name='AppComponent should evaluate to valid' duration='14'/>
+        <testCase name='AppComponent should evaluate to invalid' duration='6'/>
+        <testCase name='AppComponent should evaluate to valid' duration='23'/>
+        <testCase name='AppComponent should evaluate to invalid' duration='7'/>
+        <testCase name='AppComponent should evaluate to invalid' duration='14'/>
+        <testCase name='AppComponent should evaluate to valid' duration='5'/>
+        <testCase name='AppComponent should evaluate to invalid' duration='16'/>
+        <testCase name='AppComponent should evaluate to valid' duration='59'>
+            <failure message='TestCase failed'>Error: Expected false to be true.
+    at &lt;Jasmine>
+    at UserContext.&lt;anonymous> (http://localhost:9876/_karma_webpack_/src/app/reserve/components/reserve-form/reserve-form.component.spec.ts:28:33)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+        </testCase>
+        <testCase name='AppComponent should evaluate to invalid' duration='10'/>
+        <testCase name='AppComponent should evaluate to valid' duration='4'/>
+    </file>
+</testExecutions>

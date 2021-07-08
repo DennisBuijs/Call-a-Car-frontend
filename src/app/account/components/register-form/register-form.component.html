@@ -10,6 +10,11 @@
     <label for="password">Wachtwoord</label>
 </div>
 
+<div class="form-floating mb-3">
+    <input class="form-control" type="password" placeholder="Password check" id="password-check" [(ngModel)]="login.passwordCheck">
+    <label for="password-check">Wachtwoord</label>
+</div>
+
 <div class="row mb-3">
     <div class="col-12 text-end">
         <button class="btn btn-primary" (click)="onSubmit()">Aanmelden</button>

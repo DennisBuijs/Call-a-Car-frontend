@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<testExecutions version='1'>
+    <file path='src/app/app.component.spec.ts'>
+        <testCase name='AppComponent should have as title &apos;callacar&apos;' duration='27'/>
+        <testCase name='AppComponent should create the app' duration='6'/>
+    </file>
+    <file path='src/app/account/components/register-form/register-form.component.spec.ts'>
+        <testCase name='AppComponent should evaluate to invalid' duration='14'/>
+        <testCase name='AppComponent should evaluate to valid' duration='6'/>
+    </file>
+</testExecutions>
